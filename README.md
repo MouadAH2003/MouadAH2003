@@ -53,10 +53,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mouadah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mouadah" /></a></p>
 
-## 📫 Get in touch
-
-- LinkedIn - [Mouad Ait Ha](https://www.linkedin.com/in/mouad-ait-ha-67427521b/)
-- Twitter - [@mouadah03](https://twitter.com/mouadah03)
-- Email - [moaudaitha@gmail.com](mailto:moaudaitha@gmail.com)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouadah2003&show_icons=true&locale=en&layout=compact" alt="mouadah2003" /></p>
 </div>
