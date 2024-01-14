@@ -43,9 +43,7 @@
 <details>
   <summary>Show Certifications</summary>
   
-  - [Machine Learning by Stanford University](https://www.coursera.org/account/accomplishments/verify/AWJCHNGVKGV2) - May 2021
-  - [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/XXXXXX/public_url) - Apr 2022  
-  - Google Analytics Certified - Jul 2021
+  - [GCP certified](https://www.coursera.org/account/accomplishments/verify/AWJCHNGVKGV2)
 
 </details>
 
