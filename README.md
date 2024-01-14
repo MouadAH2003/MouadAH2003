@@ -11,6 +11,22 @@
 
 ### 👨‍💻 A future Data Science and Cloud Engineering student  
 
+- 🔭 I’m currently working on **many projects**
+
+- 🌱 I’m currently learning **GCP & AZURE advanced services, DevOps , MLOps . . .**
+
+- 👨‍💻 All of my projects are available at [https://github.com/MouadAH2003/](https://github.com/MouadAH2003/)
+
+- 📝 I regularly write articles on [Medium, substack](Medium, substack)
+
+- 💬 Ask me about **anything related to ML DL or cloud computing**
+
+- 📫 How to reach me **moaudaitha@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/mouad-ait-ha-67427521b/](https://www.linkedin.com/in/mouad-ait-ha-67427521b/)
+
+- ⚡ Fun fact **I'm the tallest one in my university**
+
 <a href="https://www.linkedin.com/in/mouad-ait-ha-67427521b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
