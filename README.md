@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MouadAH2003/](https://github.com/MouadAH2003/)
 
-- 📝 I regularly write articles on [Medium, substack](Medium, substack)
+- 📝 I regularly write articles on Medium
 
 - 💬 Ask me about **anything related to ML DL or cloud computing**
 
