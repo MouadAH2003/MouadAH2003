@@ -43,13 +43,9 @@
 
 <a href="https://github.com/mouadah2003">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouadah2003&theme=radical&show_icons=true%22/%3E" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MouadAH2003&theme=radical&hide_border=false" /><br/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mouadah2003&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
-
-#### 2222
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MouadAH2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MouadAH2003&theme=dark&hide_border=false" /><br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadAH2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 <b>My GitHub Trophies</b>
 
