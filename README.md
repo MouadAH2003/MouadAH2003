@@ -50,8 +50,7 @@
 <b>My GitHub Trophies</b>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"/>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mouadah2003&column=8"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mouadah2003&theme=onedark"/>
 </a> 
 
 <!-- languages -->
