@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mouad AIT HA</h1>
 <h3 align="center">A future Data science & cloud engineer</h3>
+<img align="right" alt="coding gif" width="400" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47d64u57ypjxxslkwupftc01cles0d98lmxugno3sa&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouadah2003&label=Profile%20views&color=0e75b6&style=flat" alt="mouadah2003" /> </p>
 
