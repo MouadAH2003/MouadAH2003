@@ -9,7 +9,7 @@
 
 ### 👋 Hello! I'm Mouad AIT HA
 
-### 👨‍💻 A future Data Science and Cloud Engineer 
+### 👨‍💻 An aspiring Data Science and Cloud Engineer with a keen interest in DevOps, MLOps, and Cloud Solutions. Eager to leverage data-driven insights and cutting-edge technologies to optimize business processes and drive innovation. Committed to continuous learning, I am actively exploring the realms of DevOps practices, MLOps methodologies, and cloud-based solutions to enhance scalability, reliability, and efficiency in data-centric applications. Excited about contributing to the intersection of data science and cloud technologies to create robust, end-to-end solutions that bridge the gap between development, operations, and machine learning
 
 <a href="https://www.linkedin.com/in/mouad-ait-ha-67427521b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
