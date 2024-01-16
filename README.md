@@ -7,9 +7,26 @@
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" align="right" width="300">
 
-### 👋 Hello! I'm Mouad AIT HA
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Science+and+Cloud+Engineer;Focusing+on+DevOps,+MLOps+and+Cloud+Solutions&center=true&width=600&height=50">
+</p>
 
-### 👨‍💻 Aspiring Data Science and Cloud Engineer with a focus on DevOps, MLOps, and Cloud Solutions
+<div align="center">
+  <a href="https://github.com/mouadah2003">
+    <img src="https://github.com/mouadah2003.png" alt="Image" width="150"> 
+  </a>
+  
+  <h1>Mouad AIT HA</h1>
+  
+  <div> 
+    <a href="https://github.com/mouadah2003">
+      <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white">
+    </a>   
+    <a href="https://www.linkedin.com/in/mouadait/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+    </a>
+  </div> 
+</div>
 
 <a href="https://www.linkedin.com/in/mouad-ait-ha-67427521b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
