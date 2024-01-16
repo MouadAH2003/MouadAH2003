@@ -18,10 +18,7 @@
   
   <h1>Mouad AIT HA</h1>
   
-  <div> 
-    <a href="https://github.com/mouadah2003">
-      <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white">
-    </a>   
+  <div>  
     <a href="https://www.linkedin.com/in/mouadait/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
     </a>
