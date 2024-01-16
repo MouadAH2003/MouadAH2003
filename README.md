@@ -51,8 +51,8 @@
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/mouadah2003">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouadah2003&theme=radical&show_icons=true%22/%3E" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadah2003&theme=radical&hide_border=false" /><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouadah2003&theme=radical&show_icons=true%22/%3E" /> <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadah2003&theme=radical&hide_border=false" /><br />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mouadah2003&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 
