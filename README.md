@@ -7,8 +7,7 @@
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" align="right" width="300">
 
-<h1>Mouad AIT HA</h1>
-
+## Mouad AIT HA
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Science+and+Cloud+Engineer;Focusing+on+DevOps,+MLOps+and+Cloud+Solutions&center=true&width=600&height=50">
 </p>
