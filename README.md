@@ -1,6 +1,6 @@
-  <div align="center"><img  src="https://api.sofascore.app/api/v1/team/4778/image" width="68" height="68" alt="Morocco" class="sc-eDPEul eEgeRl"></div>
+<div align="center"><img  src="https://api.sofascore.app/api/v1/team/4778/image" width="68" height="68" alt="Morocco" class="sc-eDPEul eEgeRl"></div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Science%20and%20Cloud%20Engineering%20Enthusiast;Always%20learning%20new%20things&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Science%20and%20Cloud%20Engineering%20Enthusiast;Always%20learning%20new%20things&font=Pacifico&center=true&width=650&height=120&color=5eff84&vCenter=true&size=45%22">
 </p>
 
 
@@ -10,7 +10,7 @@
 
 ## Mouad AIT HA 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Science+and+Cloud+Engineer;Focusing+on+DevOps,+MLOps+and+Cloud+Solutions&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Science+and+Cloud+Engineer;Focusing+on+DevOps,+MLOps+and+Cloud+Solutions&color=5eff84&center=true&width=600&height=50">
 </p>
 <a href="https://www.linkedin.com/in/mouad-ait-ha-67427521b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
