@@ -54,7 +54,8 @@
 <a href="https://github.com/mouadah2003">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouadah2003&theme=radical&show_icons=true%22/%3E" /> <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadah2003&theme=radical&hide_border=false" /><br />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mouadah2003&theme=radical&layout=compact&exclude_lang=java+r" />
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mouadah2003&theme=radical&layout=compact&exclude_lang=java+r" />  -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mouadah2003&layout=compact&langs_count=8&exclude_repo=-&theme=radical&include_all_commits=true&count_private=true&hide=Jupyter%20Notebook,HTML,CSS,TeX,Makefile,C%2b%2b"/>
 </a>
 
 <b>My GitHub Trophies</b>
