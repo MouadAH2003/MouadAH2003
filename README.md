@@ -39,14 +39,13 @@
 </div>
 
 <!-- GitHub stats -->
-## 🏆 Certifications
-
-<details>
-  <summary>Show Certifications</summary>
-  
-  - [GCP certified](https://www.coursera.org/account/accomplishments/verify/AWJCHNGVKGV2)
-
-</details>
+<div>
+  <h2>🎓 Certifications</h2>
+  <span>Visit my linkedIn Profile to view all my Certificates</span><br>
+  <a href="https://www.linkedin.com/in/mouad-ait-ha-67427521b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</div>
 
 
 <b>My GitHub Stats <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="50"></b>
