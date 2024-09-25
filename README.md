@@ -40,7 +40,7 @@
 <!-- GitHub stats -->
 <div>
   <h2>🎓 Certifications</h2>
-  <span>Check out my linkedIn Profile</span><br>
+  <span>Check out my linkedIn Profile</span>
   <a href="https://www.linkedin.com/in/mouad-ait-ha-67427521b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
