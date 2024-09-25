@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" align="right" width="300" /> 
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+and+Cloud+Engineer;Focusing+on+DevOps,+MLOps+and+Cloud+Solutions&color=5eff84&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Driven,+AI,+DevOps+and+Cloud+Solutions&color=5eff84&center=true&width=500&height=50">
 </p>
 <a href="https://www.linkedin.com/in/mouad-ait-ha-67427521b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
