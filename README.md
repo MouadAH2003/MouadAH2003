@@ -1,5 +1,5 @@
 # 👋 I'm Mouad Ait Ha
-### **Cloud Data & AI Architect | Dual-Certified Google Cloud Professional**
+### **Cloud Data & AI Engineer | Dual-Certified Google Cloud Professional**
 
 > Bridging the gap between raw data and actionable AI at scale. Specializing in high-throughput data architectures and production-grade ML systems (MLOps).
 
