@@ -33,7 +33,7 @@ I don't just write code; I design ecosystems. My work sits at the intersection o
 ## 💻 Tech Stack & Tooling
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,java,cpp,bash,js" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,postgresql,java,cpp,bash,js" alt="Languages" /><br/>
   <img src="https://skillicons.dev/icons?i=gcp,azure,aws,docker,kubernetes,terraform" alt="Cloud" /><br/>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postgres,mongodb,redis,kafka" alt="Tools" />
 </p>
